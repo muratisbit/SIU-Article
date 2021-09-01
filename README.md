@@ -40,3 +40,9 @@ self-generated interference (ISI, ICI).
 Keywords—5G, GFDM, ZF, MF, MMSE, receiver structure
 comparison.
 
+.
+.
+.
+
+To contunie this article you can click the link below.
+https://ieeexplore.ieee.org/document/9302286
