@@ -23,6 +23,8 @@ karşılaştırmalar ve çıkarımlar yapılmaktadır.
 Anahtar Kelimeler—5G, GFDM, ZF, MF, MMSE, alıcı yapısı
 karşılaştırması.
 
+---
+
 Abstract—In the forthcoming communication systems, new
 technologies arise including machine type communication (MTC),
 tactile internet and wireless regional area network (WRAN),
