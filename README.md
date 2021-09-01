@@ -48,4 +48,6 @@ To continue you can click the link below.
 
 https://ieeexplore.ieee.org/document/9302286
 
-!["Sekil 1: Alıcı verici blok diyagramı"](resim2.png)
+![mmm](resim2.png "murat")
+
+
