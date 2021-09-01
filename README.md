@@ -5,12 +5,11 @@ Design and Comparison of GFDM Receivers for 5G Communication Systems
 
 Özetçe —Gelecek nesil haberleşme sistemlerinde, makine türü
 haberleşme (MTC), dokunsal internet, kablosuz bölgesel alan
-agı (WRAN), nesnelerin interneti (IoT) gibi teknolojilerin kul- ˘
-lanılması amaçlandığı için daha dü¸sük bant dışı yayımı (OOB), ˘
-daha dü¸sük tepe ortalama güç oranı (PAPR) ve daha dü¸sük
+ağı (WRAN), nesnelerin interneti (IoT) gibi teknolojilerin kullanılması amaçlandığı için daha düşük bant dışı yayımı (OOB), ˘
+daha düşük tepe ortalama güç oranı (PAPR) ve daha dü¸sük
 gecikme süresi (low latency) gibi önemli avantajlara sahip olan
-genelleştirilmiş frekans bölmeli çogullama (GFDM) yöntemi 5G ˘
-ve sonrası haberleşme sistemleri için sundugu avantajlardan ˘
+genelleştirilmiş frekans bölmeli çogullama (GFDM) yöntemi 5G 
+ve sonrası haberleşme sistemleri için sundugu avantajlardan 
 dolayı son yıllarda hem akademide hem de endüstride gittikçe
 popüler hale gelmektedir. Bu sebeple, bu çalışmada GFDM dalga
 biçimi için vericide kullanılan Meyer RRC filtresine (darbe
