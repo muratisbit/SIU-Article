@@ -48,5 +48,4 @@ To continue you can click the link below.
 
 https://ieeexplore.ieee.org/document/9302286
 
-![resim2.png](C:\Users\MURAT\Desktop\GFDM\siu2020)
 
