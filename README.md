@@ -26,9 +26,9 @@ karşılaştırması.
 Abstract—In the forthcoming communication systems, new
 technologies arise including machine type communication (MTC),
 tactile internet and wireless regional area network (WRAN),
-internet of things (IoT) etc. Due to numerous advantages, generalized frequency division multiplexing (GFDM) which can
+internet of things (IoT) etc. Due to numerous advantages, generalized frequency division multiplexing (GFDM) which can
 bring lower out of band emission (OOB), lower peak to average
-power ratio (PAPR) and lower latency if compared to orthogonal frequency division multiplexing (OFDM), is an important
+power ratio (PAPR) and lower latency if compared to orthogonal frequency division multiplexing (OFDM), is an important
 candidate for 5G communication systems. In this paper, by
 considering Meyer RRC filter (pulse shaping filter) which is used
 for GFDM waveform in the transmitter side, receiver structures
@@ -36,6 +36,7 @@ compared such as zero forcing filter (ZF), matched filter (MF)
 and minimum mean square error filter (MMSE) in terms of
 their computational complexity, symbol error rate (SER) and
 self-generated interference (ISI, ICI).
+
 Keywords—5G, GFDM, ZF, MF, MMSE, receiver structure
 comparison.
 
