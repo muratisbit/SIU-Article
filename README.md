@@ -44,6 +44,6 @@ comparison.
 .
 .
 
-To contunie this article you can click the link below.
+To continue this article you can click the link below.
 
 https://ieeexplore.ieee.org/document/9302286
