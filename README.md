@@ -48,5 +48,20 @@ To continue you can click the link below.
 
 https://ieeexplore.ieee.org/document/9302286
 
+&nbsp;
 
+<p align="center">
+  
+ **Alıcı-Verici Blok Diyagramı**
+  
+<img src="resim2.png" width="750" length="100" > 
+  
+**GFDM Dalga Formunda ZF, MF, MMSE Alıcı Filtreleri için SER Eğrileri**
+  
+<img src="resim3.PNG" width="750"> 
+  
+**QPSK Eşlemeli Dalga Formunun Kanala Girmeden Önceki Eye Diyagramı**
+  
+<img src="resim4.png" width="750"> 
+</p>
 
